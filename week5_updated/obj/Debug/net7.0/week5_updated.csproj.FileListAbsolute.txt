@@ -1,0 +1,15 @@
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/bin/Debug/net7.0/week5_updated
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/bin/Debug/net7.0/week5_updated.deps.json
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/bin/Debug/net7.0/week5_updated.runtimeconfig.json
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/bin/Debug/net7.0/week5_updated.dll
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/bin/Debug/net7.0/week5_updated.pdb
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.csproj.AssemblyReference.cache
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.AssemblyInfoInputs.cache
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.AssemblyInfo.cs
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.csproj.CoreCompileInputs.cache
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.dll
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/refint/week5_updated.dll
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.pdb
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/week5_updated.genruntimeconfig.cache
+/Users/ranjithvennam7/Projects/week5_updated/week5_updated/obj/Debug/net7.0/ref/week5_updated.dll
